@@ -1,2 +1,2 @@
-int i = 50
-int j = 20
+int 7is = 50
+int sjcd = 20
