@@ -1,2 +1,2 @@
-int i = 50
-int j = 20
+int i = 44
+int j = 33
