@@ -1,3 +1,3 @@
-int 7is = 50
-int sjcd = 20
+int i = 44
+int j = 33
 int apple = 1234;
